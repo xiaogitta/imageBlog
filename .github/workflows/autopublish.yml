@@ -14,8 +14,8 @@ jobs:
           node-version: "16.x"
           registry-url: https://registry.npmjs.org/
       - run: npm version patch
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+      - run: git add .
+      - run: git commit -m "update"
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
