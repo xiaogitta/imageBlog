@@ -1,2 +1,1 @@
-# imageBlog
-blog-image
+# mui-mirroring-blog
