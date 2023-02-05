@@ -1,0 +1,19 @@
+{
+  "name": "mui-mirroring",
+  "version": "1.0.0",
+  "description": "Mui-Mirroring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaogitta/mui-mirroring.git"
+  },
+  "author": "Muieay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaogitta/mui-mirroring/issues"
+  },
+  "homepage": "https://github.com/xiaogitta/mui-mirroring#readme"
+}
